@@ -4,7 +4,7 @@ A deep learning application that translates American Sign Language (ASL) finger 
 
 ## 📺 Project Demo
 
-[![Live Demo Video](https://img.youtube.com/vi/L49sLVS_gpg&t=1s/maxresdefault.jpg)](https://www.youtube.com/watch?v=L49sLVS_gpg&t=1s)
+[![Live Demo Video](https://img.youtube.com/vi/L49sLVS_gpg/maxresdefault.jpg)](https://www.youtube.com/watch?v=L49sLVS_gpg)
 
 *Click the link above to watch the live demonstration on YouTube.*
 
@@ -29,8 +29,8 @@ We implemented and evaluated three models to solve this problem:
 ## 📂 Project Structure
 
 ```bash
-├── 1_baseline_cnn.py       # Code for training the custom CNN from scratch
-├── 2_vgg16_transfer.py     # Code for VGG16 implementation with Fine-Tuning
-├── 3_resnet50_final.py     # Code for ResNet50 (Best Model)
-├── app.py                  # The live web application using OpenCV & Streamlit/Flask
+├── ai-baseline-cnn.ipynb       # Code for training the custom CNN from scratch
+├── ai-vgg.ipynb                # Code for VGG16 implementation with Fine-Tuning
+├── ai-resnet.ipynb             # Code for ResNet50 (Best Model)
+├── app.ipynb                   # The live web application using OpenCV
 └── README.md
