@@ -7,6 +7,7 @@ A deep learning application that translates American Sign Language (ASL) finger 
 [![Live Demo Video](https://img.youtube.com/vi/L49sLVS_gpg/maxresdefault.jpg)](https://www.youtube.com/watch?v=L49sLVS_gpg)
 
 *Click the link above to watch the live demonstration on YouTube.*
+[Watch my YouTube Video](https://www.youtube.com/watch?v=L49sLVS_gpg)
 
 ## 🚀 Key Features
 * **Real-Time Translation:** Translates hand gestures to text instantly using OpenCV and TensorFlow.
